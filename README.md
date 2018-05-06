@@ -4,19 +4,12 @@ A simple python script that can watch public instagram profiles for new posts an
 ## Usage:
 
 set script entries at bottom accordingly:
-  
-  ### user id e.g. 2538307007 (find user id at (submenu: instagram): https://inteltechniques.com/menu.html)
-	
-  user_id =
-	
-  ### user name e.g. "micha_birklbauer"
-	
-  user_name =
-	
-  ### a valid telegram channel that you have access to in form "@channel_name"
-	
-  channel =
-	
-  ### a valid api token (as string) for a bot that has access to above channel
-	
-  api_token =
+
+- ### user id e.g. 2538307007 (find [user id](https://inteltechniques.com/menu.html) (submenu: instagram): )
+  - user_id =
+- ### user name e.g. "micha_birklbauer"
+  - user_name =
+- ### a valid telegram channel that you have access to in form "@channel_name"
+  - channel =
+- ### a valid api token (as string) for a bot that has access to above channel
+  - api_token =
