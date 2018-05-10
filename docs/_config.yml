@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: "InstaBot by Micha Birklbauer"
+description: "Project Website for InstaBot"
+show_downloads: "true"
+github:
+  zip_url: https://github.com/t0xic-m/instagram_watchdog/archive/master.zip
+  tar_url: https://github.com/t0xic-m/instagram_watchdog/archive/master.tar.gz
