@@ -24,3 +24,12 @@ set script entries at bottom accordingly:
 - Method instaBot takes three arguments: user_ids (see above), rtime and stime.
   - rtime is the time (in seconds) for how long the script should run (if 0 the script will run forever). The default is ~1h.
   - stime is the time (hour) when story notifications should be sent. The default is 21 (21:00).
+  
+  ## License:
+  
+  [MIT License](https://github.com/t0xic-m/instagram_watchdog/blob/master/LICENSE.md)
+  
+  ## Download
+  
+  - ZIP: [DOWNLOAD](https://github.com/t0xic-m/instagram_watchdog/archive/master.zip)
+  - TAR.GZ: [DOWNLOAD](https://github.com/t0xic-m/instagram_watchdog/archive/master.tar.gz)
