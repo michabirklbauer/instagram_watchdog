@@ -24,3 +24,17 @@ set script entries at bottom accordingly:
 - Method instaBot takes three arguments: user_ids (see above), rtime and stime.
   - rtime is the time (in seconds) for how long the script should run (if 0 the script will run forever). The default is ~1h.
   - stime is the time (hour) when story notifications should be sent. The default is 21 (21:00).
+
+## The Future of this Project
+
+Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/t0xic-m/instapython) and will be updated and further developed there!
+
+## License
+
+[MIT License](https://github.com/t0xic-m/instagram_watchdog/blob/master/LICENSE.md)
+
+## Contact
+
+- Website: [Web](https://sites/google.com/site/michabirklbauer)
+- Website: [GitHub](https://t0xic-m.github.io)
+- Mail: micha.birklbauer@gmail.com
