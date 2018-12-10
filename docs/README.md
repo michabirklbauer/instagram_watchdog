@@ -1,6 +1,9 @@
 # InstaBot by Micha Birklbauer
 A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel. Uses the official Bot API by Telegram and the official API by Instagram!
 
+## WARNING
+**\[10.12.2018\] Since Instagram deprecated their public API this repository will not be maintained anymore. Programs/Scripts or parts of them will not work properly anymore! USE AT OWN RISK!**
+
 ## Telegram Screenshots
 
 [![TelegramScreenshot](https://raw.githubusercontent.com/t0xic-m/instagram_watchdog/master/docs/instabot.jpg)](https://www.instagram.com/katie_kosova/)
