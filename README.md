@@ -1,6 +1,9 @@
 # Instagram Watchdog
 A python script that can watch public instagram profiles for new posts and sends notifications to a telegram channel. Uses the official Bot API by Telegram and the official API by Instagram!
 
+## WARNING
+\[10.12.2018\] Since Instagram deprecated their public API this repository will not be maintained anymore. Programs/Script or parts of them will not work properly anymore! USE AT OWN RISK!
+
 ## Features:
 - Watch instagram profiles for new posts (private and public profiles)
 - Retrieve new posts from instagram profiles (only public profiles)
