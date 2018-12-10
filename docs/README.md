@@ -44,6 +44,6 @@ Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small py
 
 ## Contact
 
-- Website: [Web](https://sites/google.com/site/michabirklbauer)
+- Website: [Web](https://t0xic-m.github.io/web)
 - Website: [GitHub](https://t0xic-m.github.io)
-- Mail: micha.birklbauer@gmail.com
+- Contact: [Mail](mailto:micha.birklbauer@gmail.com)
