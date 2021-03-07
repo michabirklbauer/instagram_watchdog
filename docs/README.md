@@ -6,7 +6,7 @@ A python script that can watch public instagram profiles for new posts and sends
 
 ## Telegram Screenshots
 
-[![TelegramScreenshot](https://raw.githubusercontent.com/t0xic-m/instagram_watchdog/master/docs/instabot.jpg)](https://www.instagram.com/katie_kosova/)
+[![TelegramScreenshot](https://raw.githubusercontent.com/michabirklbauer/instagram_watchdog/master/docs/instabot.jpg)](https://www.instagram.com/katie_kosova/)
 
 ## Features:
 - Watch instagram profiles for new posts (private and public profiles)
@@ -31,22 +31,21 @@ set script entries at bottom accordingly:
 - Method instaBot takes three arguments: user_ids (see above), rtime and stime.
   - rtime is the time (in seconds) for how long the script should run (if 0 the script will run forever). The default is ~1h.
   - stime is the time (hour) when story notifications should be sent. The default is 21 (21:00).
-  
+
 ## The Future of this Project
 
-Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/t0xic-m/instapython) and will be updated and further developed there!
-  
+Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/michabirklbauer/instapython) and will be updated and further developed there!
+
 ## License:
-  
-[MIT License](https://github.com/t0xic-m/instagram_watchdog/blob/master/LICENSE.md)
-  
+
+[MIT License](https://github.com/michabirklbauer/instagram_watchdog/blob/master/LICENSE.md)
+
 ## Download
-  
-- ZIP: [DOWNLOAD](https://github.com/t0xic-m/instagram_watchdog/archive/master.zip)
-- TAR.GZ: [DOWNLOAD](https://github.com/t0xic-m/instagram_watchdog/archive/master.tar.gz)
+
+- ZIP: [DOWNLOAD](https://github.com/michabirklbauer/instagram_watchdog/archive/master.zip)
+- TAR.GZ: [DOWNLOAD](https://github.com/michabirklbauer/instagram_watchdog/archive/master.tar.gz)
 
 ## Contact
 
-- Website: [Web](https://t0xic-m.github.io/web)
-- Website: [GitHub](https://t0xic-m.github.io)
-- Contact: [Mail](mailto:micha.birklbauer@gmail.com)
+- Website: [michabirklbauer.github.io](https://michabirklbauer.github.io/)
+- Contact: [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)

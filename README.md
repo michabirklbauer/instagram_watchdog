@@ -30,14 +30,13 @@ set script entries at bottom accordingly:
 
 ## The Future of this Project
 
-Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/t0xic-m/instapython) and will be updated and further developed there!
+Instagram Watchdog (or InstaBot) was incorporated into [InstaPython - A small python package to access and deal with Instagram data!](https://github.com/michabirklbauer/instapython) and will be updated and further developed there!
 
 ## License
 
-[MIT License](https://github.com/t0xic-m/instagram_watchdog/blob/master/LICENSE.md)
+[MIT License](https://github.com/michabirklbauer/instagram_watchdog/blob/master/LICENSE.md)
 
 ## Contact
 
-- Website: [Web](https://t0xic-m.github.io/web)
-- Website: [GitHub](https://t0xic-m.github.io)
-- Contact: [Mail](mailto:micha.birklbauer@gmail.com)
+- Website: [michabirklbauer.github.io](https://michabirklbauer.github.io/)
+- Contact: [micha.birklbauer@gmail.com](mailto:micha.birklbauer@gmail.com)
