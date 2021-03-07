@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: "InstaBot by Micha Birklbauer"
 description: "Project Website for InstaBot"
-logo: https://raw.githubusercontent.com/michabirklbauer/michabirklbauer.github.io/master/avatar.jpg
+logo: https://raw.githubusercontent.com/michabirklbauer/projects/master/avatar.jpg
 show_downloads: "true"
 github:
   zip_url: https://github.com/michabirklbauer/instagram_watchdog/archive/master.zip
